@@ -182,7 +182,7 @@ const ContactSection = () => {
                   <div>
                     <p className="text-sm text-muted-foreground">Call Us</p>
                     <p className="text-lg font-semibold text-foreground">
-                      +91 85868 58466
+                      +91 85868 58466, +91 96258 58466
                     </p>
                   </div>
                 </a>
@@ -215,7 +215,7 @@ const ContactSection = () => {
                       Office Address
                     </p>
                     <p className="text-foreground">
-                      chamber no .06, RdC Gate, District and Session court,
+                      Chamber no .06, RdC Gate, District and Session court,
                       6/155, RDC, Block 1, P & T Colony,
                     </p>
                     <p className="text-foreground">
