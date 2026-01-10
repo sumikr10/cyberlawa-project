@@ -75,7 +75,7 @@ const Footer = () => {
                   className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
                 >
                   <Phone className="w-5 h-5 text-primary" />
-                  +91 85868 58466
+                  +91 85868 58466, +91 96258 58466
                 </a>
               </li>
               <li>
@@ -92,7 +92,7 @@ const Footer = () => {
               <li className="flex items-start gap-3 text-muted-foreground">
                 <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-1" />
                 <span>
-                  chamber no .06, RdC Gate, District and Session court,
+                  Chamber no .06, RdC Gate, District and Session court,
                   <br />
                   6/155, RDC, Block 1, P & T Colony, Raj Nagar,
                   <br />
