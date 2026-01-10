@@ -172,20 +172,33 @@ const ContactSection = () => {
               </h3>
 
               <div className="space-y-6">
-                <a
-                  href="tel:+918586858466"
-                  className="flex items-center gap-4 p-4 rounded-lg bg-background hover:bg-primary/5 transition-colors group"
-                >
-                  <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
+                <div className="flex items-center gap-4 p-4 rounded-lg bg-background hover:bg-primary/5 transition-colors">
+                  <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center">
                     <Phone className="w-6 h-6 text-primary" />
                   </div>
-                  <div>
+
+                  <div className="whitespace-nowrap">
                     <p className="text-sm text-muted-foreground">Call Us</p>
-                    <p className="text-lg font-semibold text-foreground">
-                      +91 85868 58466, +91 96258 58466
+
+                    <p className="text-lg font-semibold text-foreground flex items-center gap-1">
+                      <a
+                        href="tel:+918586858466"
+                        className="hover:text-primary transition-colors"
+                      >
+                        +91 85868 58466
+                      </a>
+
+                      <span className="mx-1">|</span>
+
+                      <a
+                        href="tel:+919625858466"
+                        className="hover:text-primary transition-colors"
+                      >
+                        +91 96258 58466
+                      </a>
                     </p>
                   </div>
-                </a>
+                </div>
 
                 <a
                   href="https://wa.me/918586858466?text=Hi%2C%20I%20need%20legal%20assistance%20regarding%20my%20frozen%20bank%20account."
