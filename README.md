@@ -16,7 +16,7 @@ This project focuses on **trust-building UI, fast performance, SEO readiness, an
 
 | Hero Section | Services & Trust Section |
 |-------------|--------------------------|
-| ![Hero](./public/preview-1.png) | ![Stats](./public/preview-2.png) |
+| ![Hero](./public/Hero.png) | ![Stats](./public/Service.png) |
 
 ---
 
