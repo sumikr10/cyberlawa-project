@@ -69,14 +69,26 @@ const Footer = () => {
               Contact Us
             </h4>
             <ul className="space-y-4">
-              <li>
-                <a
-                  href="tel:+918586858466"
-                  className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
-                >
-                  <Phone className="w-5 h-5 text-primary" />
-                  +91 85868 58466, +91 96258 58466
-                </a>
+              <li className="flex items-center gap-3 text-muted-foreground whitespace-nowrap">
+                <Phone className="w-5 h-5 text-primary flex-shrink-0" />
+
+                <span className="flex items-center gap-1">
+                  <a
+                    href="tel:+918586858466"
+                    className="hover:text-primary transition-colors"
+                  >
+                    +91 85868 58466
+                  </a>
+
+                  <span className="mx-1">,</span>
+
+                  <a
+                    href="tel:+919625858466"
+                    className="hover:text-primary transition-colors"
+                  >
+                    +91 96258 58466
+                  </a>
+                </span>
               </li>
               <li>
                 <a
