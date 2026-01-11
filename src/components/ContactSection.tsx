@@ -266,7 +266,7 @@ const ContactSection = () => {
             </h3>
             <div className="w-full h-[300px] sm:h-[400px] lg:h-[500px] rounded-lg overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.477115097267!2d77.4426506!3d28.6753711!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf1ec383ca163%3A0xafd0eec509fe298b!2sMAYANK%20SINGH%20GHAZIABAD%20ADVOCATE!5e0!3m2!1sen!2sin!4v1768077398581!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7000.954236877399!2d77.442661!3d28.675371000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf1ec383ca163%3A0xafd0eec509fe298b!2sMAYANK%20SINGH%20GHAZIABAD%20ADVOCATE!5e0!3m2!1sen!2sin!4v1768137294279!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -278,7 +278,7 @@ const ContactSection = () => {
             </div>
             <div className="mt-4">
               <a
-                href="https://maps.app.goo.gl/ZfmJVP6CujSHY2Pc7"
+                href="https://maps.app.goo.gl/sZucEwNrZKZNq1x87"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-primary hover:text-primary/80 transition-colors text-sm sm:text-base font-medium"
