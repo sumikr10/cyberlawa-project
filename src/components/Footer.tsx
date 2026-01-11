@@ -102,7 +102,7 @@ const Footer = () => {
               <li className="flex items-start gap-2 sm:gap-3 text-muted-foreground">
                 <MapPin className="w-4 h-4 sm:w-5 sm:h-5 text-primary flex-shrink-0 mt-1" />
                 <a
-                  href="https://www.google.com/maps/search/?api=1&query=Chamber+no+.06,+RdC+Gate,+District+and+Session+court,+6/155,+RDC,+Block+1,+P+%26+T+Colony,+Raj+Nagar,+Ghaziabad,+Uttar+Pradesh+201002"
+                  href="https://maps.app.goo.gl/n4Mh2zF5MuhWwxQSA"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm sm:text-base hover:text-primary transition-colors leading-relaxed"
