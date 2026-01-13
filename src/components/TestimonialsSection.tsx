@@ -11,13 +11,13 @@ const testimonials = [
   },
   {
     name: "Priya Sharma",
-    role: "IT Professional, Bangalore",
+    role: "IT Professional, Indrapuram, UP",
     content: "Saved my business from a PMLA freeze. The team's quick response and thorough understanding of cyber laws made all the difference.",
     rating: 5,
   },
   {
     name: "Amit Verma",
-    role: "Entrepreneur, Gurgaon, Delhi",
+    role: "Entrepreneur, Gurugram, Delhi",
     content: "Recovered funds from crypto scam when I had lost all hope. Professional service and constant communication throughout the case.",
     rating: 5,
   },
