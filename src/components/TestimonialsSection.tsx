@@ -17,13 +17,13 @@ const testimonials = [
   },
   {
     name: "Amit Verma",
-    role: "Entrepreneur, Mumbai",
+    role: "Entrepreneur, Gurgaon, Delhi",
     content: "Recovered funds from crypto scam when I had lost all hope. Professional service and constant communication throughout the case.",
     rating: 5,
   },
   {
     name: "Sneha Patel",
-    role: "HR Manager, Kolkata",
+    role: "HR Manager, Ghaziabad, UP",
     content: "Best cyber lawyer in Kolkata. They handled my online defamation case with utmost professionalism and got positive results quickly.",
     rating: 5,
   },
